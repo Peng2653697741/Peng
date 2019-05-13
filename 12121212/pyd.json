@@ -1,0 +1,51 @@
+[{
+	"dht":["HANGAR","MENU","="],
+	"tup":{
+		"tup1":{"url":"img/Bandit-Case-study-v2-01-B.jpg",
+				"zhi1":"BANDIT",
+				"zhi2":"Casual dining with an",
+				"zhi3":"attitude"
+			},
+		"tup2":{"url":"img/Bar-Branding-Malta.png",
+				"zhi1":"KINGSWAY",
+				"zhi2":"A brand fit for a King"
+			},
+		"tup3":{"url":"img/Valletta-Design-Cluster-Logo.png",
+				"zhi1":"VALLETTA DESIGN",
+				"zhi2":"Stepping up design in",
+				"zhi3":"Malta"
+				},
+		"tup4":{"url":"img/Gin-Spirits-Marketing-Campaign-Malta-Bombay-Sapphire.jpg",
+				"zhi1":"A POP UP GIN GARDEN FOR BOM BAY",
+				"zhi2":"SAPPHIRE",
+				"zhi3":"A Win for Gin"
+			},
+		"tup5":{"url":"img/julian-hochgesang-1178003-unsplash.jpg"}
+	},
+	"dj":{
+		"dj1":"VIEW CASE STUDIES",
+		"dj2":" →",
+		"dj3":"START A PROJECT",
+		"dj4":" →",
+		"dj5":"GO TO STORIES",
+		"dj6":" →"
+	},
+	"wb":{
+		"wb1":"A team for your team",
+		"wb2":"Our collaborative approach helps our clients reach their ambitious goals. We don’t just promote brands—we work with our clients to improve them, because we know from experience that the long haul matters.",
+		"wb3":"Latest Story",
+		"wb4":"What happens at Hangar in 400 words or less.",
+		"wb5":"PROCESS",
+		"wb6":"Growing Througn Grit",
+		"wb7":"On allowing moments of frustration and lack of experience to propel you forward.",
+		"wb8":"READ NOW"
+	},
+	"jst":{
+		"w1":"RECEIVE QUARTERLY UPDATES",
+		"w2":"SUBSCRIBE",
+		"w3":"FOLLOW",
+		"w4":"LET’S WORK TOGETHER",
+		"w5":"hello@hangar.co",
+		"w6":"Made by Hangar in Malta © Copyright Hangar Ltd. 2019"
+	}
+}]
