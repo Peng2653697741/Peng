@@ -170,4 +170,5 @@ $(function(){
 		$(".text3-2-di-2").stop()
 		$(".text3-2-di-2").animate({paddingLeft:"0px"},300,function (){})
 	})
+	$("img").css({cursor:"pointer"})
 })
